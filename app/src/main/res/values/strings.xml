@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Saida Comanda</string>
+    <string name="digite_o_numero_da_comanda">Digite o Número da Comanda</string>
+    <string name="consultar">Consultar</string>
+    <string name="fechar">Fechar</string>
+    <string name="terminal_saida_comanda">Terminal Saída Comanda</string>
+</resources>
